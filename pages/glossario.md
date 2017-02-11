@@ -1,13 +1,9 @@
 Glossário
 ===================
 
-
-
 O glossário é composto por termos recorrentes na área dos dados abertos, cuja definição é importante para nos ajudar a compreender com clareza as questões abordadas. 
 
-Os termos abaixo indicados foram recolhidos do Open Data Handbook - http://opendatahandbook.org/glossary/en/ e do Open Government Guide - http://www.opengovguide.com/glossary 
-
-----------
+Os termos abaixo indicados foram recolhidos do [Open Data Handbook](http://opendatahandbook.org/glossary/en) e do [Open Government Guide](http://www.opengovguide.com/glossary)
 
 
 A
@@ -19,9 +15,7 @@ A
 
 B
 -------------
-* **Base de dados:** 
-i) qualquer conjunto organizado de dados pode ser considerado uma base de dados, sendo por isso sinónimo de conjunto(s) de dados; 
-ii) um sistema de software para processar e gerir dados, incluindo características  que permitam estender ou atualizar, transformar e consultar os dados. Exemplo: fonte aberta PostgreSQL, e proprietário Microsoft Access.
+* **Base de dados:** qualquer conjunto organizado de dados pode ser considerado uma base de dados, sendo por isso sinónimo de conjunto(s) de dados; um sistema de software para processar e gerir dados, incluindo características  que permitam estender ou atualizar, transformar e consultar os dados. Exemplo: fonte aberta PostgreSQL, e proprietário Microsoft Access.
 
 
 C
@@ -63,7 +57,7 @@ M
 
 P
 -------------
-+ **Padrão aberto:** definição técnica, refere-se ao uso de formatos interoperáveis, desenvolvidos independentemente de um programa de computador específico. Por exemplo, publicação de informação no formato padrão CSV (https://pt.wikipedia.org/wiki/Comma-separated_values ) em vez do uso do formato proprietário de folha de cálculo do XLS, desenvolvido pela Windows. 
++ **Padrão aberto:** definição técnica, refere-se ao uso de formatos interoperáveis, desenvolvidos independentemente de um programa de computador específico. Por exemplo, publicação de informação no formato padrão [CSV](https://pt.wikipedia.org/wiki/Comma-separated_values ) em vez do uso do formato proprietário de folha de cálculo do XLS, desenvolvido pela Windows. 
 + **Proteção de dados:** protecção legal do direitos dos indivíduos em relação à recolha, armazenamento e processamento automático de dados pessoais em formato mecanicamente legível e a divulgação desses dados. 
 
 R
