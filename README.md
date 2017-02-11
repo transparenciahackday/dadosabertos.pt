@@ -18,6 +18,7 @@ TODO: Organizar esta lista
 
 * Ana Isabel Carvalho
 * Cátia Matos
+* Diana Fernandes
 * Francisco Silva
 * João Antunes
 * Joana Solipa Baptista
