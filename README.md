@@ -9,7 +9,7 @@ Para podermos ter uma cópia local que possamos ver e testar, é preciso gerar o
 
 ## Como colocar o site no ar
 
-Para atualizar a versão no ar do site, que está alojada no GitHub pages, temos de...
+Para atualizar a versão no ar do site, que está alojada no GitHub pages, é correr `gulp deploy`.
 
 
 ## Cólofon
