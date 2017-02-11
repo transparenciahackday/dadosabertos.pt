@@ -10,3 +10,22 @@ Para podermos ter uma cópia local que possamos ver e testar, é preciso gerar o
 ## Como colocar o site no ar
 
 Para atualizar a versão no ar do site, que está alojada no GitHub pages, temos de...
+
+
+## Cólofon
+
+TODO: Organizar esta lista
+
+* Ana Isabel Carvalho
+* Cátia Matos
+* Francisco Silva
+* João Antunes
+* Joana Solipa Baptista
+* Joana Ventura Lopes
+* Luís Oliveira
+* Marta Pinto
+* Ricardo Lafuente
+* Sara Silva
+
+
+## Licença de uso
