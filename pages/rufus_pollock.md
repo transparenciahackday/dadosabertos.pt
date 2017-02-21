@@ -1,7 +1,7 @@
 Dêem-nos Dados em Bruto e Dêem-nos Já
 =====================================
 
-7 de Novembro de 2017, em [Ideas and musings](http://blog.okfn.org/category/ideas-and-musings/)
+7 de Novembro de 2007, em [Ideas and musings](http://blog.okfn.org/category/ideas-and-musings/)
 
 Algo que acho notável em muitos projetos de dados é a quantidade de esforço aplicado em desenvolver de visuais apelativos para o material.
 
