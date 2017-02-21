@@ -1,8 +1,6 @@
 Dêem-nos Dados em Bruto e Dêem-nos Já
 =====================================
 
-7 de Novembro de 2017, em [Ideas and musings](http://blog.okfn.org/category/ideas-and-musings/)
-
 Algo que acho notável em muitos projetos de dados é a quantidade de esforço aplicado em desenvolver de visuais apelativos para o material.
 
 
@@ -20,7 +18,7 @@ Quando estes argumentos são usados, muitas vezes as pessoas respondem: "Mas nin
 ####*"Não, nós queremos dados em bruto e queremos os dados já"*
 
 
-*Este artigo, escrito por Rufus Pollock, foi publicado originalmente em [Give Us the Data Raw, and Give it to Us Now](https://blog.okfn.org/2007/11/07/give-us-the-data-raw-and-give-it-to-us-now/) e traduzido para português por Joana Ventura e revisto por Ricardo Pinho e Luís Oliveira.*
+*Este artigo, escrito por Rufus Pollock, foi publicado originalmente em [Give Us the Data Raw, and Give it to Us Now](https://blog.okfn.org/2007/11/07/give-us-the-data-raw-and-give-it-to-us-now/), a 7 de novembro de 2007, e traduzido para português por Joana Ventura e revisto por Ricardo Pinho e Luís Oliveira.*
 
 
 
