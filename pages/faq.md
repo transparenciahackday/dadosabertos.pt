@@ -1,18 +1,8 @@
 
-Os dados abertos são a chave para uma sociedade democrática plena, onde a informação pública é disseminada livremente e constitui a base para inúmeros usos e aplicações por parte da sociedade civil.
-
-(- o key é o 'open'
-- acesso aos dados publicos é um direito básico, que esta a ser retirado se os dados nao forem open
-Os dados permitem...
-A abertura implica ....
-- dados privados vs dados publicos - distincao
-transparencia para as instituicoes - privacidade para individuos
-objectivo: informacao publica estar disponivel aos cidadaos)
-
 
 ## O que é open data? O que é isso dos dados abertos?
 
-Dados abertos (ou _open data_ em inglês) são dados que podem ser livremente usados, reutilizados e redistribuídos por qualquer pessoa - sujeitos, no máximo, à exigência de atribuição da fonte e partilha segundo os mesmos termos.
+Os dados abertos (ou _open data_ em inglês) são dados que podem ser livremente usados, reutilizados e redistribuídos por qualquer pessoa - sujeitos, no máximo, à exigência de atribuição da fonte e partilha segundo os mesmos termos.
 
 Quando falamos de dados, estamos a referir-nos a conjuntos de informação estruturada; na gíria técnica, referimo-nos a _datasets_ ou bases de dados. São bons exemplos os censos populacionais, registos meteorológicos, registos de empresas ou transcrições parlamentares.
 
@@ -30,6 +20,14 @@ Ao adotar uma licença aberta para os seus dados, qualquer entidade ou institui�
 Uma licença, como o nome sugere, é um conjunto de autorizações que o proprietário dos dados proporciona explicitamente a quem a eles acede.
 
 Temos uma [página dedicada às várias licenças abertas](licencas) e como escolher a melhor para cada contexto.
+
+## A minha instituição disponibiliza já os dados gratuitamente na Internet. Posso dizer que são dados abertos?
+
+Gratuitidade não significa abertura. É fundamental que sejam explicitamente garantidos os princípios acima mencionados:
+
+* Deve ser permitida a reutilização e redistribuição dos dados. Qualquer restrição à sua edição ou manipulação impede que sejam considerados abertos.
+* Não pode haver restrições a áreas específicas. Por exemplo, um dataset não é aberto quando é apenas permitido o uso pessoal, não-comercial e/ou académico.
+* É preciso que estejam disponíveis em formatos abertos, por forma a não obrigar o público a utilizar ferramentas de software específicas para a eles poder aceder.
 
 ## O que é que os dados abertos permitem fazer?
 
@@ -131,6 +129,16 @@ Basta apenas assegurar a documentação adequada e actualização necessária, b
     Melhorar o acesso do governo aos dados do governo
     https://docs.google.com/document/d/1tVhMhKK9wKxugOiasK9EnG7cIqE6Adhdt9SBO-vMag8/edit?usp=sharing
 
+
+    Os dados abertos são a chave para uma sociedade democrática plena, onde a informação pública é disseminada livremente e constitui a base para inúmeros usos e aplicações por parte da sociedade civil.
+
+    (- o key é o 'open'
+    - acesso aos dados publicos é um direito básico, que esta a ser retirado se os dados nao forem open
+    Os dados permitem...
+    A abertura implica ....
+    - dados privados vs dados publicos - distincao
+    transparencia para as instituicoes - privacidade para individuos
+    objectivo: informacao publica estar disponivel aos cidadaos)
 
 ## Referências para melhorar o texto
 

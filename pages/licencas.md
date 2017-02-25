@@ -8,6 +8,20 @@ Uma licença aberta tem de garantir:
 2. y
 3. z
 
+## Copyfree
+
+## Copyleft
+
+## Domínio Público
+
+
+
+
 Copyfree: PDDL, CC0
 Copyleft: OdBL, CC-BY-SA
 
+## Referências
+
+* [Open Definition]
+* [Open Source Definition]
+* Copyleft?
