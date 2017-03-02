@@ -45,6 +45,12 @@
 
 /* Small devices (tablets, 768px and up) */
 @media (max-width: 560px) {
+
+  #glossario h5 {
+    width: 100%;
+    text-align: center;
+  }
+
   #glossario dt {
     float: left;
     clear: left;
