@@ -31,7 +31,7 @@ O ponto da partilha nos mesmos termos, ou _ShareAlike_, assegura que uma vez abe
 As licenças _copyleft_ recomendadas para conjuntos de dados são:
 
 * Open Data Commons [Open Database License](https://opendatacommons.org/licenses/odbl/summary/) (ODbL)
-* [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/)
+* [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/) (CC-BY-SA)
 
 ### Copyfree
 
@@ -39,8 +39,8 @@ As licenças _copyfree_ dispensam a premissa da partilha nos mesmos termos, esti
 
 As licenças _copyfree_ recomendadas para conjuntos de dados são:
 
-* Open Data Commons [Attribution License](https://opendatacommons.org/licenses/odbl/summary/) (ODbL)
-* [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/)
+* Open Data Commons [Attribution License](https://opendatacommons.org/licenses/by/summary/)
+* [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/) (CC-BY)
 
 ### Domínio Público
 
@@ -48,8 +48,8 @@ As licenças de domínio público são para quem prefere prescindir de qualquer 
 
 As licenças recomendadas para colocar conjuntos de dados no domínio público são:
 
-* Open Data Commons [Public Domain Dedication and License](https://opendatacommons.org/licenses/pddl/summary/)
-* [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/)
+* Open Data Commons [Public Domain Dedication and License](https://opendatacommons.org/licenses/pddl/summary/) (PDDL)
+* [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) (CC0)
 
 
 ## Referências
