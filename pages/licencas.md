@@ -2,7 +2,7 @@
 
 Quando temos a intenção de publicar ou disponibilizar qualquer tipo de conteúdo, levanta-se a questão dos termos de utilização e distribuição. Podemos optar por escrever os nossos próprios termos, mas existe um sem-número de questões legais que temos de ter em conta. Como contratar uma pessoa com os devidos conhecimentos nem sempre está ao nosso alcance, o ideal seria dispôr de um conjunto de termos prontos a usar, e que nos protejam de quaisquer riscos associados.
 
-É aqui que entram as licenças -- conjuntos de restrições e autorizações relativas ao uso e distribuição de conteúdos. Os conteúdos podem ter várias formas -- música, imagens, textos, código... -- e cada uma dessas formas implica regras específicas. Os conjuntos de dados não são excepção, mas felizmente podemos contar com algumas soluções para esse fim.
+É aqui que entram as licenças, que são conjuntos de restrições e autorizações relativas ao uso e distribuição de conteúdos. Os conteúdos podem ter várias formas -- música, imagens, textos, código... -- e cada uma dessas formas implica regras específicas. Os conjuntos de dados não são excepção, mas felizmente podemos contar com algumas soluções para esse fim.
 
 ## Licenças abertas para dados
 
