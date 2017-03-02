@@ -16,8 +16,8 @@
 #glossario h5 {
   font-weight: 700;
   font-size: 18px;
-  width: 140px;
-  text-align: right;
+  width: 100%;
+  text-align: center;
   margin-top: 40px;
 }
 
@@ -45,11 +45,6 @@
 
 /* Small devices (tablets, 768px and up) */
 @media (max-width: 560px) {
-
-  #glossario h5 {
-    width: 100%;
-    text-align: center;
-  }
 
   #glossario dt {
     float: left;

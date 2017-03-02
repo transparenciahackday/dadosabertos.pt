@@ -17,11 +17,13 @@
                 <img src="img/dd_flag.png" class="flag" />
                 <a href="index.php">
                     <h1><span>D</span>ados <span>A</span>bertos</h1>
+                    <?php if ($current_page == "homepage") : ?>
                     <h2>em Portugal</h2>
+                    <?php endif; ?>
                 </a>
-                 <?php if ($current_page == "homepage") : ?>
+                <?php if ($current_page == "homepage") : ?>
                 <h3>Dados abertos promovem a disseminação de informação de maneira fluída e livre para impulsionar o avanço da sociedade.</h3>
-                <?php endif ?>
+                <?php endif; ?>
             </div>
 
 
