@@ -1,0 +1,236 @@
+
+
+html {
+  overflow-x:hidden !important;
+}
+
+/* Body */
+
+body {
+  background-image: url('../img/dd_background.png');
+  background-color: #F2F1EF;
+  font-family: 'Open Sans', Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.4em;
+  color: #000;
+  overflow-x: hidden !important;
+}
+
+a {
+  text-decoration: underline;
+  color: #000;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+/* Typography */
+
+
+
+
+/* Top navbar, fixed, Navigation */
+#nav_main {
+  background-color: transparent;
+  border: 0;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+/* Override Boostrap defaults */
+.navbar-nav>li>a {
+  margin: 0;
+  padding: 0;
+}
+
+#nav_main .navbar-nav {
+   width: 100%;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+}
+
+#nav_main .nav.navbar-nav li {
+  float: none;
+  display: inline-block;
+  margin-right: 40px;
+}
+
+#nav_main .nav.navbar-nav li:last-of-type {
+  margin-right: 0;
+}
+
+
+#nav_main .nav.navbar-nav li a {
+  color: #000;
+  font-size: 18px;
+  font-weight: normal;
+  padding: 10px;
+}
+
+#nav_main .nav.navbar-nav li a:hover,
+#nav_main .nav.navbar-nav li a.active {
+  text-decoration: none;
+  border: 0px;
+  border-radius: 9px;
+  background-color: #49a8e1;
+  color: #fff;
+  font-weight: normal;
+}
+
+
+/* Homepage Title */
+#title {
+  text-align: center;
+  margin-bottom: 60px;
+  max-width: 640px;
+}
+
+#title img.flag {
+  width: 30px;
+}
+
+#title a {
+  text-decoration: none;
+}
+
+#title h1 {
+  margin: 0;
+  margin-top: 10px;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 1em;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  color: #111;
+}
+
+#title h1 span {
+}
+
+#title h2 {
+  margin: 0;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 1em;
+}
+
+#title h3 {
+  margin-top: 40px;
+  font-size:  18px;
+  line-height: 1.2em;
+}
+
+
+/* Introdução */
+section#intro {
+  margin-bottom: 60px;
+}
+
+
+
+/* Repositórios */
+#repos {
+  text-align: center;
+  margin-bottom: 120px;
+}
+
+#repos h4 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 22px;
+  margin-bottom: 40px;
+}
+
+#repos .repo img {
+  max-width: 200px;
+}
+
+#repos p.call_to_action {
+  margin-top: 40px;
+}
+
+
+
+/* Footer */
+
+footer {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+footer h6 {
+  font-size: 14px;
+  font-weight: 900;
+}
+
+footer img.logo {
+  width: 150px;
+}
+
+footer .contactos {
+  margin-top: 20px;
+}
+
+
+
+/* Mobile device custom considerations */
+/***************************************/
+
+
+/* Customize container for desktops */
+@media (min-width: 992px) {
+  .container {
+    max-width: 730px;
+  }
+
+  .panel {
+    max-width: 560px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+   /* Repos em destaque */
+  .repo {
+    margin-bottom: 40px;
+  }
+
+  .repo:last-of-type {
+    margin-bottom: 0px;
+  }
+}
+
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 560px) {
+
+  /* Main nav */
+  #nav_main .nav.navbar-nav li {
+    margin-right: 2px;
+  }
+
+  #nav_main .nav.navbar-nav li a { 
+    font-size: 14px;
+    padding: 3px;
+  }
+
+  #nav_main .nav.navbar-nav li a:hover,
+  #nav_main .nav.navbar-nav li a.active { 
+    border-radius: 5px;
+  }
+
+  /* Title */
+  #title h1 {
+    font-size: 64px;
+  }
+
+
+  /* Projecto colaborativo */
+  h6 {
+    margin-bottom: 40px;
+  }
+}
