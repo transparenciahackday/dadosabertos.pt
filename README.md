@@ -2,12 +2,12 @@ Este é o código-fonte do site [dadosabertos.pt](http://dadosabertos.pt), que �
 
 ## Como gerar localmente o site
 
-Fazer clone deste repositório e
-'''
+Fazer clone deste repositório e escrever no directório:
+```
 php -S localhost:9000
-'''
+```
 
-Ir ao browser e colocar o endereçço [http://localhost:9000](http://localhost:9000) .
+Colocar o endereçço [http://localhost:9000](http://localhost:9000) no browser
 
 ### Criar páginas e como escrever nelas
 
