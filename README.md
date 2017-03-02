@@ -7,7 +7,7 @@ Fazer clone deste repositório e escrever no directório:
 php -S localhost:9000
 ```
 
-Colocar o endereçço [http://localhost:9000](http://localhost:9000) no browser
+Colocar o endereçço [http://localhost:9000](http://localhost:9000) no browser.
 
 ### Criar páginas e como escrever nelas
 
