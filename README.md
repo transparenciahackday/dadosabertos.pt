@@ -18,8 +18,6 @@ Colocar o endereçço [http://localhost:9000](http://localhost:9000) no browser.
 
 ## Cólofon
 
-TODO: Organizar esta lista
-
 * Ana Isabel Carvalho
 * Cátia Matos
 * Diana Fernandes

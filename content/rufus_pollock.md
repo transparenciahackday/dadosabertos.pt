@@ -1,7 +1,7 @@
 Dêem-nos Dados em Bruto e Dêem-nos Já
 =====================================
 
-Algo que acho notável em muitos projetos de dados é a quantidade de esforço aplicado em desenvolver de visuais apelativos para o material.
+Algo que acho notável em muitos projetos de dados é a quantidade de esforço aplicado em desenvolver visuais apelativos para o material.
 
 
 Não é que esteja a criticar os visuais apelativos. Eles são importantes, pois proporcionam uma forma de muitos utilizadores chegarem ao material (e são muito úteis para demonstrar aos financiadores para onde o dinheiro foi). Mas visuais apelativos (VA de agora adiante) têm vários inconvenientes:
