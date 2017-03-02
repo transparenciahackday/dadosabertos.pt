@@ -36,7 +36,7 @@ O que é que os dados abertos permitem fazer?
     * conhecimento coletivo
     * colaboração
 
-##### Que bons exemplos existem de reutilização de dados abertos?
+Que bons exemplos existem de reutilização de dados abertos?
 
 :   A informação pública, na forma de dados abertos, pode ajudar o cidadão a tomar decisões na sua vida particular, ou possibilitar-lhe ser mais ativamente interveniente na sociedade. 
 
@@ -65,22 +65,22 @@ Porque existe tanta informação fechada?
     * O desconhecimento da existência de licenças abertas, e o uso de termos de utilização padrão que, por vezes sem intenção por parte das entidades, colocam restrições que tornam os seus dados efetivamente fechados.
     * A falta de incentivo à abertura por parte das entidades detentoras da informação. Para resolver este problema, é necessária a implementação de medidas claras que incentivem a abertura, bem como a consciencialização da sociedade do valor dos dados abertos.
 
-##### Porque é que ainda não é tudo aberto? Quais são os entraves?
+Porque é que ainda não é tudo aberto? Quais são os entraves?
 
 :   * falta de incentivo à abertura (câmaras, academia), ver pergunta sobre o que custa
     * estipulação de políticas sem implementação efectiva (ex. Parlamento)
     * open washing
 
-##### Qual é o esforço necessário para libertar um conjunto de dados?
+Qual é o esforço necessário para libertar um conjunto de dados?
 
 :    Basta apenas assegurar a documentação adequada e actualização necessária, bem como garantir que os dados não levantam questões de privacidade.  Se isto parecer confuso ou difícil, é só entrar em contacto. 
 
-##### O que são formatos abertos? Quais formatos devo utilizar/evitar? 
+O que são formatos abertos? Quais formatos devo utilizar/evitar? 
 
 :   * formatos abertos - para que um ficheiro possa ser aberto por todos, sem restrições
     * exemplo: CADs projectos de arquitectura da câmara estão em formatos proprietários, inacessíveis aos cidadãos
 
-##### Referências que usámos
+Referências que usámos
 
 :   * [Why Open Data - Open Data Handbook](http://opendatahandbook.org/guide/pt_BR/why-open-data/)
     * [Exemplos concretos](http://opendatahandbook.org/value-stories/en/)
