@@ -76,7 +76,7 @@ Todos estes exemplos existem porque os governos e instituições públicas desse
 
 Apesar de todo este potencial, as fontes de dados abertos são ainda escassas. Podemos apontar duas razões principais:
 
-* O desconhecimento da existência das licenças abertas, e o uso de termos de utilização padrão que, por vezes sem intenção por parte das entidades, colocam restrições que tornam os seus dados efetivamente fechados.
+* O desconhecimento da existência de licenças abertas, e o uso de termos de utilização padrão que, por vezes sem intenção por parte das entidades, colocam restrições que tornam os seus dados efetivamente fechados.
 * A falta de incentivo à abertura por parte das entidades detentoras da informação. Para resolver este problema, é necessária a implementação de medidas claras que incentivem a abertura, bem como a consciencialização da sociedade do valor dos dados abertos.
 
 ## Porque é que ainda não é tudo aberto? Quais são os entraves?
@@ -90,8 +90,8 @@ Apesar de todo este potencial, as fontes de dados abertos são ainda escassas. P
 Basta apenas assegurar a documentação adequada e actualização necessária, bem como garantir que os dados não levantam questões de privacidade.  Se isto parecer confuso ou difícil, é só entrar em contacto. 
 ## O que são formatos abertos? Quais formatos devo utilizar/evitar? 
 
-* formatos abertos - para que um ficheiro possa ser aberto por todos, sem restriçoes
-* exemplo: CADs projectos de arquitectura da camara estao em formatos proprietarios, inacessiveis aos cidadaos
+* formatos abertos - para que um ficheiro possa ser aberto por todos, sem restrições
+* exemplo: CADs projectos de arquitectura da câmara estão em formatos proprietários, inacessíveis aos cidadãos
 
 
 ## Como posso saber mais pormenores?
