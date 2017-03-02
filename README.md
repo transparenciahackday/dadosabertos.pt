@@ -20,8 +20,6 @@ Para atualizar a versão no ar do site, que está alojada no GitHub pages, é co
 
 ## Cólofon
 
-TODO: Organizar esta lista
-
 * Ana Isabel Carvalho
 * Cátia Matos
 * Diana Fernandes
