@@ -15,7 +15,7 @@
 
             <div class="homepage">
                 <img src="img/dd_flag.png" class="flag" />
-                <a href="/">
+                <a href="index.php">
                     <h1><span>D</span>ados <span>A</span>bertos</h1>
                     <h2>em Portugal</h2>
                 </a>
