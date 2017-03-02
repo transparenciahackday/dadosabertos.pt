@@ -42,3 +42,22 @@
     margin: 0 0 0 150px;
     padding: 0 0 0.5em 0;
 }
+
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 560px) {
+  #glossario dt {
+    float: left;
+    clear: left;
+    width: 100%;
+    text-align: left;
+    margin-top: 15px;
+
+  }
+
+  #glossario dd {
+    margin: 0;
+    padding: 0;
+  }
+
+  
+}

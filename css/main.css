@@ -65,9 +65,11 @@ a:hover {
 
 #nav_main .nav.navbar-nav li a {
   color: #000;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: normal;
   padding: 10px;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
 #nav_main .nav.navbar-nav li a:hover,
@@ -210,17 +212,17 @@ footer .contactos {
 
   /* Main nav */
   #nav_main .nav.navbar-nav li {
-    margin-right: 2px;
+    margin-right: 1px;
   }
 
   #nav_main .nav.navbar-nav li a { 
-    font-size: 14px;
-    padding: 3px;
+    font-size: 12px;
+    padding: 2px;
   }
 
   #nav_main .nav.navbar-nav li a:hover,
   #nav_main .nav.navbar-nav li a.active { 
-    border-radius: 5px;
+    border-radius: 3px;
   }
 
   /* Title */
