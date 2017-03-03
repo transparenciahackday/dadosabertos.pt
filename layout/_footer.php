@@ -3,7 +3,7 @@
     <footer>
       <div class="container">
         <div class="row">
-          <h6>Um projecto colaborativo</h6>
+          <h6>Este recurso foi tornado possível graças aos esforços destas entidades:</h6>
         </div>
         <div class="row">
           <div class="col-sm-4 col-md-4">
@@ -21,14 +21,16 @@
               <img src="img/logo_dwd.png" class="logo">
             </a>
           </div>
+          <!--
           <div class="row">
              <div class="col-xs-12 col-sm-12 col-md-12 contactos">
                 <a href="#">Contactos</a>
             </div>
           </div>
+          -->
         </div>
       </div>
-      
+
     </footer>
 
   </body>
