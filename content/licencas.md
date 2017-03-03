@@ -53,7 +53,7 @@ As licenças recomendadas para colocar conjuntos de dados no domínio público s
 * [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) (CC0)
 
 
-##### Referências
+#### Referências
 
 * [Open Definition](http://opendefinition.org/)
 * [Licenças em conformidade](http://opendefinition.org/licenses/) com a Open Definition
