@@ -18,6 +18,15 @@
                 <img src="img/repo_lisboaaberta.png"/>
               </a>
             </div>
+            <div class="col-sm-4 col-md-4 repo">
+            </div>
+            <div class="col-sm-4 col-md-4 repo">
+              <a href="http://dadosabertos.cm-porto.pt">
+                <img src="img/repo_cmporto.png"/>
+              </a>
+            </div>
+            <div class="col-sm-4 col-md-4 repo">
+            </div>
           </div>
           <div class="row">
             <p class="call_to_action"><a href="mailto:contacto@dadosabertos.pt">Falta-nos algum recurso aqui? Diga-nos qual.</a></p>
