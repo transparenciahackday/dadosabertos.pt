@@ -3,7 +3,7 @@ include 'layout/_functions.php'
 ?>
 
 <?php
-$page_title = "Perguntas Frequentes | Dados Abertos";
+$page_title = "Perguntas Frequentes - Dados Abertos";
 $current_page = "perguntas";
 ?>
 

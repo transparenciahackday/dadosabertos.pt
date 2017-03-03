@@ -3,7 +3,7 @@
 ?>
 
 <?php
-  $page_title = "Glossário | Dados Abertos ";
+  $page_title = "Glossário - Dados Abertos ";
   $current_page = 'glossário';
 ?>
 

@@ -3,7 +3,7 @@ include 'layout/_functions.php';
 ?>
 
 <?php
-$page_title = "Licenças | Dados Abertos";
+$page_title = "Licenças - Dados Abertos";
 $current_page = "licenças";
 ?>
 
