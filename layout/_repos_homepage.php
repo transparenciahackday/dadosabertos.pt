@@ -18,7 +18,7 @@
                 <img src="img/repo_lisboaaberta.png"/>
               </a>
             </div>
-            <div class="col-sm-4 col-md-4 repo">
+            <div class="col-sm-4 col-md-4 col-sm-offset-4 col-md-offset-4 repo">
               <a href="http://dadosabertos.cm-porto.pt">
                 <img src="img/repo_cmporto.png"/>
               </a>

@@ -138,14 +138,14 @@ section#intro {
 /* Repositórios */
 #repos {
   text-align: center;
-  margin-bottom: 120px;
+  margin-bottom: 100px;
 }
 
 #repos h4 {
   text-align: center;
   font-weight: 700;
   font-size: 22px;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 
 #repos .repo img {
@@ -156,12 +156,20 @@ section#intro {
   margin-top: 40px;
 }
 
+.repo {
+  margin-bottom: 40px;
+}
+
+  .repo:last-of-type {
+    margin-bottom: 0px;
+  }
+
 
 
 /* Footer */
 
 footer {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
   text-align: center;
 }
 
@@ -207,14 +215,7 @@ footer p.legal, footer .site-license p {
 
 /* Mobile */
 @media (max-width: 768px) {
-   /* Repos em destaque */
-  .repo {
-    margin-bottom: 40px;
-  }
-
-  .repo:last-of-type {
-    margin-bottom: 0px;
-  }
+   
 }
 
 /* Small devices (tablets, 768px and up) */
