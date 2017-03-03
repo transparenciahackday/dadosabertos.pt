@@ -1,13 +1,9 @@
 <?php
   include 'layout/_functions.php';
-?>
 
-<?php
   $page_title = "Glossário - Dados Abertos ";
   $current_page = 'glossário';
-?>
 
-<?php
   include 'layout/_head.php';
 ?>
   <body>

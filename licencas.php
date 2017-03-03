@@ -1,13 +1,9 @@
 <?php
 include 'layout/_functions.php';
-?>
 
-<?php
 $page_title = "Licenças - Dados Abertos";
 $current_page = "licenças";
-?>
 
-<?php
 include 'layout/_head.php';
 ?>
   <body>
