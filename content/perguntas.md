@@ -14,7 +14,7 @@ O que são licenças? Como posso disponibilizar os meus dados com uma licença a
 
 :   Uma licença, como o nome sugere, é um conjunto de autorizações que o proprietário dos dados proporciona explicitamente a quem a eles acede.
     
-    Temos uma [página dedicada às várias licenças abertas](licencas) e como escolher a melhor para cada contexto.
+    Temos uma [página dedicada às várias licenças abertas](licencas.php) e como escolher a melhor para cada contexto.
 
 A minha instituição disponibiliza já os dados gratuitamente na Internet. Posso dizer que são dados abertos?
 
