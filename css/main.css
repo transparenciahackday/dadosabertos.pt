@@ -178,6 +178,14 @@ footer .contactos {
   margin-top: 20px;
 }
 
+footer p.legal {
+  font-size: 12px;
+  max-width: 400px;
+  line-height: 1.1em;
+  margin: 0 auto;
+  margin-top: 40px;
+  color: #333;
+}
 
 
 /* Mobile device custom considerations */

@@ -7,6 +7,7 @@
     }
   }
 
+  // Markdown parser for content
   require_once 'Michelf/MarkdownExtra.inc.php';
   function html_from_markdown($filename) {
     $page_contents_markdown = file_get_contents('content/' . $filename);
