@@ -22,7 +22,7 @@
                     <?php endif; ?>
                 </a>
                 <?php if ($current_page == "homepage") : ?>
-                <h3>Dados abertos promovem a disseminação de informação de maneira fluída e livre para impulsionar o avanço da sociedade.</h3>
+                  <?php echo html_from_markdown('homepage-slogan.md'); ?>
                 <?php endif; ?>
             </div>
 
