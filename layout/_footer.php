@@ -21,8 +21,12 @@
               <img src="img/logo_dwd.png" class="logo">
             </a>
           </div>
+
           <div class="row">
             <div class="col-xs-12 col-sm-12 col-md-12 contactos">
+              <p>
+                <a href="mailto:contacto@dadosabertos.pt">Enviar-nos um e-mail</a>
+              </p>
               <p class="legal">
                 A informação contida neste website é somente de carácter informativo, não constituindo qualquer documento ou recomendação legal.<br>Para tal, recomendamos a consulta de um/a advogado/a.
               </p>
