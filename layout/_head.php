@@ -14,8 +14,8 @@
     <meta property="og:title" content="<?php echo $page_title ?>" />
     <meta property="og:description" content="Dados abertos promovem a disseminação de informação de maneira fluída e livre para impulsionar o avanço da sociedade." />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://www.dadosabertos.pt" />
-    <meta property="og:image" content="http://www.dadosabertos.pt/img/og_share.png" />
+    <meta property="og:url" content="https://dadosabertos.pt" />
+    <meta property="og:image" content="https://dadosabertos.pt/img/og_share.png" />
     <meta property="og:locale"" content="pt_PT" />
 
     <!-- Google Fonts -->
