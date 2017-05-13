@@ -1,3 +1,5 @@
+[![Junta-te à conversa em https://gitter.im/transparenciahackday/dadosabertos.pt](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/transparenciahackday/dadosabertos.pt?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Este é o código-fonte do site [dadosabertos.pt](http://dadosabertos.pt).
 
 ## Como gerar localmente o site
