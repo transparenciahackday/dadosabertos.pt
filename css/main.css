@@ -158,6 +158,7 @@ section#intro {
 
 .repo {
   margin-bottom: 40px;
+  min-height: 200px;
 }
 
   .repo:last-of-type {
