@@ -33,10 +33,17 @@
                 <img src="img/repo_ost.png"/>
               </a>
             </div>
+            <div class="col-sm-4 col-md-4 hidden-xs repo">
+              <!-- empty placeholder -->
+            </div>
             <div class="col-sm-4 col-md-4 repo">
               <a href="http://dadosabertos.cm-porto.pt">
                 <img src="img/repo_cmporto.png"/>
               </a>
+            </div>
+            <div class="col-sm-4 col-md-4 hidden-xs repo">
+              
+              <!-- empty placeholder -->
             </div>
           </div>
           <div class="row">
