@@ -4,7 +4,7 @@
           <h4>Repositórios de dados abertos em Portugal</h4>
           <div class="row">
             <div class="col-sm-4 col-md-4 repo">
-              <a href="http://www.dados.gov.pt/">
+              <a href="https://dados.gov.pt/">
                 <img src="img/repo_dadosgov.png"/>
               </a>
             </div>
