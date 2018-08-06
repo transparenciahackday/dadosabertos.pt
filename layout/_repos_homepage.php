@@ -33,7 +33,7 @@
                 <img src="img/repo_ost.png"/>
               </a>
             </div>
-            <div class="col-sm-4 col-md-4 hidden-xs repo">
+            <div class="col-sm-2 col-md-2 hidden-xs repo">
               <!-- empty placeholder -->
             </div>
             <div class="col-sm-4 col-md-4 repo">
@@ -41,8 +41,12 @@
                 <img src="img/repo_cmporto.png"/>
               </a>
             </div>
-            <div class="col-sm-4 col-md-4 hidden-xs repo">
-              
+              <div class="col-sm-4 col-md-4 repo">
+              <a href="https://gitlab.com/Renascenca/dados">
+                <img src="img/repo_renascenca.png"/>
+              </a>
+            </div>
+            <div class="col-sm-2 col-md-2 hidden-xs repo">
               <!-- empty placeholder -->
             </div>
           </div>
