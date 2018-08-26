@@ -69,6 +69,7 @@ a:hover {
 	text-transform: uppercase;
 }
 
+#nav_main .nav.navbar-nav li a:focus,
 #nav_main .nav.navbar-nav li a:hover,
 #nav_main .nav.navbar-nav li a.active {
 	text-decoration: none;
@@ -145,28 +146,13 @@ section#intro {
 }
 
 .repo {
-	margin-bottom: 40px;
-	min-height: 200px;
-	position: relative;
+	padding: 20px 40px;
+	display: table-cell;
+	height: 250px;
+	vertical-align: middle;
 }
 
-#repos .repo img {
-	/*max-width: 200px;*/
-	max-height: 100%;
-	max-width: 200px; /*100%; */
-	width: auto;
-	height: auto;
-	position: absolute;
-	top: 0;
-	bottom: 0;
-	left: 0;
-	right: 0;
-	margin: auto;
-}
-
-.repo:last-of-type {
-	margin-bottom: 0px;
-}
+#repos .repo img {}
 
 /* Footer */
 
@@ -242,5 +228,14 @@ footer p.legal, footer .site-license p {
 	/* Projecto colaborativo */
 	h6 {
 		margin-bottom: 40px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.repo {
+		padding: 6px 12px;
+		display: table-cell;
+		height: 250px;
+		vertical-align: middle;
 	}
 }
