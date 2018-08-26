@@ -1,29 +1,26 @@
-
-
 html {
-  overflow-x:hidden !important;
+	overflow-x:hidden !important;
 }
 
 /* Body */
-
 body {
-  background-image: url('../img/dd_background.png');
-  background-color: #F2F1EF;
-  font-family: 'Open Sans', Arial,sans-serif;
-  font-size: 14px;
-  line-height: 1.4em;
-  color: #000;
-  overflow-x: hidden !important;
+	background-image: url('../img/dd_background.png');
+	background-color: #F2F1EF;
+	font-family: 'Open Sans', Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.4em;
+	color: #000;
+	overflow-x: hidden !important;
 }
 
 a {
-  text-decoration: underline;
-  color: #000;
+	text-decoration: underline;
+	color: #000;
 }
 
 a:hover {
-  text-decoration: none;
-  color: #000;
+	text-decoration: none;
+	color: #000;
 }
 
 /* Typography */
@@ -33,231 +30,217 @@ a:hover {
 
 /* Top navbar, fixed, Navigation */
 #nav_main {
-  background-color: transparent;
-  border: 0;
-  margin-top: 40px;
-  margin-bottom: 40px;
+	background-color: transparent;
+	border: 0;
+	margin-top: 40px;
+	margin-bottom: 40px;
 }
 
 /* Override Boostrap defaults */
 .navbar-nav>li>a {
-  margin: 0;
-  padding: 0;
+	margin: 0;
+	padding: 0;
 }
 
 #nav_main .navbar-nav {
-   width: 100%;
-   text-align: center;
-   margin: 0;
-   padding: 0;
+	 width: 100%;
+	 text-align: center;
+	 margin: 0;
+	 padding: 0;
 }
 
 #nav_main .nav.navbar-nav li {
-  float: none;
-  display: inline-block;
-  margin-right: 40px;
+	float: none;
+	display: inline-block;
+	margin-right: 40px;
 }
 
 #nav_main .nav.navbar-nav li:last-of-type {
-  margin-right: 0;
+	margin-right: 0;
 }
 
 
 #nav_main .nav.navbar-nav li a {
-  color: #000;
-  font-size: 16px;
-  font-weight: normal;
-  padding: 10px;
-  text-decoration: none;
-  text-transform: uppercase;
+	color: #000;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 10px;
+	text-decoration: none;
+	text-transform: uppercase;
 }
 
 #nav_main .nav.navbar-nav li a:hover,
 #nav_main .nav.navbar-nav li a.active {
-  text-decoration: none;
-  border: 0px;
-  border-radius: 9px;
-  background-color: #49a8e1;
-  color: #fff;
-  font-weight: normal;
+	text-decoration: none;
+	border: 0px;
+	border-radius: 9px;
+	background-color: #49a8e1;
+	color: #fff;
+	font-weight: normal;
 }
-
 
 /* Homepage Title */
 #title {
-  text-align: center;
-  margin-bottom: 60px;
-  max-width: 640px;
+	text-align: center;
+	margin-bottom: 60px;
+	max-width: 640px;
 }
 
 #title img.flag {
-  width: 30px;
+	width: 30px;
 }
 
 #title a {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 #title h1 {
-  margin: 0;
-  margin-top: 10px;
-  font-family: 'Titillium Web', sans-serif;
-  font-weight: 900;
-  font-size: 72px;
-  line-height: 1em;
-  letter-spacing: 0px;
-  text-transform: uppercase;
-  color: #111;
+	margin: 0;
+	margin-top: 10px;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 900;
+	font-size: 72px;
+	line-height: 1em;
+	letter-spacing: 0px;
+	text-transform: uppercase;
+	color: #111;
 }
 
-#title h1 span {
-}
+#title h1 span {}
 
 #title h2 {
-  margin: 0;
-  font-family: 'Titillium Web', sans-serif;
-  font-weight: 700;
-  font-size: 42px;
-  line-height: 1em;
+	margin: 0;
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 700;
+	font-size: 42px;
+	line-height: 1em;
 }
 
 #title h3 {
-  margin-top: 40px;
-  font-size:  18px;
-  line-height: 1.2em;
+	margin-top: 40px;
+	font-size:	18px;
+	line-height: 1.2em;
 }
-
 
 /* Introdução */
 section#intro {
-  margin-bottom: 60px;
+	margin-bottom: 60px;
 }
-
-
 
 /* Repositórios */
 #repos {
-  text-align: center;
-  margin-bottom: 80px;
+	text-align: center;
+	margin-bottom: 80px;
 }
 
 #repos h4 {
-  text-align: center;
-  font-weight: 700;
-  font-size: 22px;
-  margin-bottom: 60px;
+	text-align: center;
+	font-weight: 700;
+	font-size: 22px;
+	margin-bottom: 60px;
 }
 
-
-
 #repos p.call_to_action {
-  margin-top: 0px;
+	margin-top: 0px;
 }
 
 .repo {
-  margin-bottom: 40px;
-  min-height: 200px;
-  position: relative;
+	margin-bottom: 40px;
+	min-height: 200px;
+	position: relative;
 }
 
 #repos .repo img {
-  /*max-width: 200px;*/
-  max-height: 100%;  
-  max-width: 200px; /*100%; */
-  width: auto;
-  height: auto;
-  position: absolute;  
-  top: 0;  
-  bottom: 0;  
-  left: 0;  
-  right: 0;  
-  margin: auto;
+	/*max-width: 200px;*/
+	max-height: 100%;
+	max-width: 200px; /*100%; */
+	width: auto;
+	height: auto;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
 }
 
 .repo:last-of-type {
-  margin-bottom: 0px;
+	margin-bottom: 0px;
 }
-
-
 
 /* Footer */
 
 footer {
-  margin-bottom: 60px;
-  text-align: center;
+	margin-bottom: 60px;
+	text-align: center;
 }
 
 footer h6 {
-  font-size: 14px;
-  font-weight: 900;
-  margin-bottom: 30px;
+	font-size: 14px;
+	font-weight: 900;
+	margin-bottom: 30px;
 }
 
 footer img.logo {
-  width: 150px;
+	width: 150px;
 }
 
 footer .contactos {
-  margin-top: 20px;
+	margin-top: 20px;
 }
 
 footer p.legal, footer .site-license p {
-  font-size: 12px;
-  max-width: 400px;
-  line-height: 1.1em;
-  margin: 0 auto;
-  margin-top: 20px;
-  color: #333;
+	font-size: 12px;
+	max-width: 400px;
+	line-height: 1.1em;
+	margin: 0 auto;
+	margin-top: 20px;
+	color: #333;
 
 }
-
 
 /* Mobile device custom considerations */
 /***************************************/
 
-
 /* Customize container for desktops */
 @media (min-width: 992px) {
-  .container {
-    max-width: 730px;
-  }
+	.container {
+		max-width: 730px;
+	}
 
-  .panel {
-    max-width: 560px;
-  }
+	.panel {
+		max-width: 560px;
+	}
 }
 
 /* Mobile */
-@media (max-width: 768px) {
-   
-}
+@media (max-width: 768px) {}
 
 /* Small devices (tablets, 768px and up) */
 @media (max-width: 560px) {
 
-  /* Main nav */
-  #nav_main .nav.navbar-nav li {
-    margin-right: 1px;
-  }
+	/* Main nav */
+	#nav_main .nav.navbar-nav li {
+		margin-right: 1px;
+	}
 
-  #nav_main .nav.navbar-nav li a { 
-    font-size: 12px;
-    padding: 2px;
-  }
+	#nav_main .nav.navbar-nav li a {
+		font-size: 12px;
+		padding: 2px;
+	}
 
-  #nav_main .nav.navbar-nav li a:hover,
-  #nav_main .nav.navbar-nav li a.active { 
-    border-radius: 3px;
-  }
+	#nav_main .nav.navbar-nav li a:hover,
+	#nav_main .nav.navbar-nav li a.active {
+		border-radius: 3px;
+	}
 
-  /* Title */
-  #title h1 {
-    font-size: 64px;
-  }
+	/* Title */
+	#title h1 {
+		font-size: 64px;
+	}
 
-
-  /* Projecto colaborativo */
-  h6 {
-    margin-bottom: 40px;
-  }
+	/* Projecto colaborativo */
+	h6 {
+		margin-bottom: 40px;
+	}
 }
