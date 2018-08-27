@@ -1,29 +1,27 @@
 <?php
-  include 'layout/_functions.php';
+	include 'layout/_functions.php';
 
-  $page_title = "Dados Abertos";
-  $current_page = "homepage";
+	$page_title = "Dados Abertos";
+	$current_page = "homepage";
 
-  include 'layout/_head.php';
+	include 'layout/_head.php';
 ?>
   <body>
 
-    <?php
-      include 'layout/_header.php';
-    ?>
+	<?php
+		include 'layout/_header.php';
+	?>
 
+	<main>
 
-    <main>
-    
-    <?php
-      include 'layout/_intro_homepage.php';
+		<?php
+			include 'layout/_intro_homepage.php';
 
-      include 'layout/_repos_homepage.php';
-    ?>
+			include 'layout/_repos_homepage.php';
+		?>
 
-    </main>
-
+	</main>
 
 <?php
-  include 'layout/_footer.php';
+	include 'layout/_footer.php';
 ?>

@@ -1,64 +1,59 @@
 /* Glossário */
 #glossario {
-  margin-bottom: 120px;
+	margin-bottom: 120px;
 }
 
 #glossario h4 {
-  text-align: center;
-  font-weight: 700;
-  font-size: 22px;
-  margin-bottom: 40px;
+	text-align: center;
+	font-weight: 700;
+	font-size: 22px;
+	margin-bottom: 40px;
 }
 
-#glossario p {
-}
+#glossario p {}
 
 #glossario h5 {
-  font-weight: 700;
-  font-size: 18px;
-  width: 100%;
-  text-align: center;
-  margin-top: 40px;
+	font-weight: 700;
+	font-size: 18px;
+	width: 100%;
+	text-align: center;
+	margin-top: 40px;
 }
 
 #glossario dl {
-    border: 0;
-    padding: 0;
+	border: 0;
+	padding: 0;
 }
 
 #glossario dt {
-    float: left;
-    clear: left;
-    width: 140px;
-    text-align: right;
-    font-weight: bold;
+	float: left;
+	clear: left;
+	width: 140px;
+	text-align: right;
+	font-weight: bold;
 }
 
 #glossario dt::after {
-    content: "";
+	content: "";
   }
 
 #glossario dd {
-    margin: 0 0 0 150px;
-    padding: 0 0 0.5em 0;
+	margin: 0 0 0 150px;
+	padding: 0 0 0.5em 0;
 }
 
 /* Small devices (tablets, 768px and up) */
 @media (max-width: 560px) {
+	#glossario dt {
+		float: left;
+		clear: left;
+		width: 100%;
+		text-align: left;
+		margin-top: 15px;
+	}
 
-  #glossario dt {
-    float: left;
-    clear: left;
-    width: 100%;
-    text-align: left;
-    margin-top: 15px;
-
-  }
-
-  #glossario dd {
-    margin: 0;
-    padding: 0;
-  }
-
-  
+	#glossario dd {
+		margin: 0;
+		padding: 0;
+	}
 }

@@ -1,28 +1,26 @@
 /* Licenças */
 #licencas {
-  margin-bottom: 120px;
+	margin-bottom: 120px;
 }
 
 #licencas h4 {
-  text-align: center;
-  font-weight: 700;
-  font-size: 22px;
-  margin-bottom: 40px;
+	text-align: center;
+	font-weight: 700;
+	font-size: 22px;
+	margin-bottom: 40px;
 }
 
 #licencas h4:last-of-type {
-  margin-top: 60px;
+	margin-top: 60px;
 }
 
 #licencas h5,
 #licencas h6 {
-  text-align: center;
-  font-weight: 700;
-  font-size: 18px;
-  margin-bottom: 20px;
-  margin-top: 40px;
+	text-align: center;
+	font-weight: 700;
+	font-size: 18px;
+	margin-bottom: 20px;
+	margin-top: 40px;
 }
 
-#licencas p {
-  
-}
+#licencas p {}
