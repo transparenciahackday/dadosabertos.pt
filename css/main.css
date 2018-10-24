@@ -25,9 +25,6 @@ a:hover {
 
 /* Typography */
 
-
-
-
 /* Top navbar, fixed, Navigation */
 #nav_main {
 	background-color: transparent;
@@ -37,7 +34,7 @@ a:hover {
 }
 
 /* Override Boostrap defaults */
-.navbar-nav>li>a {
+.navbar-nav > li > a {
 	margin: 0;
 	padding: 0;
 }
@@ -146,13 +143,16 @@ section#intro {
 }
 
 .repo {
-	padding: 20px 40px;
-	display: table-cell;
+	padding: 25px 30px;
+	display: grid;
 	height: 250px;
 	vertical-align: middle;
 }
 
-#repos .repo img {}
+#repos .repo img {
+	margin: auto;
+	width: 220px;
+}
 
 /* Footer */
 
@@ -235,4 +235,9 @@ footer p.legal, footer .site-license p {
 	.repo {
 		padding: 6px 12px;
 	}
+
+	#repos .repo img {
+		width: 200px;
+	}
+
 }
