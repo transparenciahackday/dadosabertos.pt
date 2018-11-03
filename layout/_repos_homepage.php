@@ -36,11 +36,6 @@
 						</a>
 					</div>
 					<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
-						<a href="https://www.ost.pt/" class="repo">
-							<img src="img/repo_ost.png" class="img-responsive"/>
-						</a>
-					</div>
-					<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
 						<a href="http://dadosabertos.cm-porto.pt" class="repo">
 							<img src="img/repo_cmporto.png" class="img-responsive"/>
 						</a>
