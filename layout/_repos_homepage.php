@@ -14,6 +14,11 @@
 				</a>
 			</div>
 			<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
+				<a href="http://opendata.bnportugal.pt" class="repo">
+					<img src="img/repo_bnp.png" class="img-responsive"/>
+				</a>
+			</div>
+			<div class="col-xs-6 col-sm-4 col-md-3 col-lg-3">
 				<a href="http://dados.cm-lisboa.pt/" class="repo">
 					<img src="img/repo_lisboaaberta.png" class="img-responsive"/>
 				</a>
