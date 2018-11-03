@@ -35,11 +35,13 @@
 							<img src="img/repo_cmagueda.png" class="img-responsive"/>
 						</a>
 					</div>
+                                        <!--
 					<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
 						<a href="http://dadosabertos.cm-porto.pt" class="repo">
 							<img src="img/repo_cmporto.png" class="img-responsive"/>
 						</a>
 					</div>
+                                        -->
 					<div class="col-xs-12 col-sm-4 col-md-3 col-lg-3">
 						<a href="https://gitlab.com/Renascenca/dados" class="repo">
 							<img src="img/repo_renascenca.png" class="img-responsive"/>
