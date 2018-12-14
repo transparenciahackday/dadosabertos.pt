@@ -1,5 +1,5 @@
 serve:
-	php -S 0.0.0.0:9000
+	php -S 127.0.0.1:9000
 
 deploy:
 	rsync -ar --delete --progress . -e ssh dh:/home/rlaf/www/dadosabertos.pt/ --exclude ".git*"
